@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./chunks/framework.kz7unGbE.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/kritor.md","filePath":"api/kritor.md"}'),a={name:"api/kritor.md"};function o(i,s,c,n,p,_){return r(),e("div")}const f=t(a,[["render",o]]);export{m as __pageData,f as default};

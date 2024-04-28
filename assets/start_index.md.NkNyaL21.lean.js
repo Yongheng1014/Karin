@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a4 as t}from"./chunks/framework.kz7unGbE.js";const m=JSON.parse('{"title":"快速开始目录","description":"","frontmatter":{},"headers":[],"relativePath":"start/index.md","filePath":"start/index.md"}'),i={name:"start/index.md"},l=t("",12),n=[l];function o(h,s,d,c,_,u){return r(),e("div",null,n)}const p=a(i,[["render",o]]);export{m as __pageData,p as default};

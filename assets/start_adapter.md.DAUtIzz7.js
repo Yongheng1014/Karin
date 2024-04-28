@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.kz7unGbE.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"start/adapter.md","filePath":"start/adapter.md"}'),r={name:"start/adapter.md"};function s(o,c,n,p,d,_){return e(),a("div")}const f=t(r,[["render",s]]);export{m as __pageData,f as default};

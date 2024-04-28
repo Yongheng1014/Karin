@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./chunks/framework.kz7unGbE.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Renderer/Renderer.md","filePath":"Renderer/Renderer.md"}'),n={name:"Renderer/Renderer.md"};function a(d,o,s,c,p,_){return t(),r("div")}const f=e(n,[["render",a]]);export{m as __pageData,f as default};
